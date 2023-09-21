@@ -1,5 +1,4 @@
-// import PropTypes from 'prop-types';
-// import { ContactsStyle } from "./Contacts.styled";
+
 import { ContactsStyle } from "./Contacts.styled";
 
 export const Contacts = ({contacts, deleteContact}) => {
